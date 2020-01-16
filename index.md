@@ -10,5 +10,8 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/Syllogism.html">Syllogism Questions</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/InputOutputClassWork.html">Input Output Class Work</a></li>
+	</ul>
 	
 </body></html>
