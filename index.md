@@ -16,5 +16,8 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/InputOutputHomeWork.html">Input Output Home Work</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/Direction1.html">Direction Class Work</a></li>
+	</ul>
 	
 </body></html>
