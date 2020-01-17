@@ -13,5 +13,8 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/InputOutputClassWork.html">Input Output Class Work</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/InputOutputHomeWork.html">Input Output Home Work</a></li>
+	</ul>
 	
 </body></html>
