@@ -17,7 +17,13 @@
 	  <li><a href="https://ambarfulzele.github.io/Pratish/InputOutputHomeWork.html">Input Output Home Work</a></li>
 	</ul>
 	<ul>
-	  <li><a href="https://ambarfulzele.github.io/Pratish/Direction1.html">Direction Problems</a></li>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/Direction1.html">Direction Problems 1</a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/Direction2.html">Direction Problems 2</a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/Direction3.html">Direction Problems 3</a></li>
 	</ul>
 	
 </body></html>
