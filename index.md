@@ -25,5 +25,11 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/Direction3.html">Direction Problems 3</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/CodingDecoding1.html">Coding Problems 1</a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/CodingDecoding2.html">Coding Problems 2</a></li>
+	</ul>
 	
 </body></html>
