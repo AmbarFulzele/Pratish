@@ -31,5 +31,11 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/CodingDecoding2.html">Coding Problems 2</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/BloodRelationBasic.html">Blood Relation Basic</a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/InEquality.html">InEquality</a></li>
+	</ul>
 	
 </body></html>
