@@ -37,5 +37,8 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/InEquality.html">InEquality</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/SeatingArrangement.html">Seating Arrangement</a></li>
+	</ul>
 	
 </body></html>
