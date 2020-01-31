@@ -40,5 +40,9 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/SeatingArrangement.html">Seating Arrangement</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/BloodRelation.html">Blood Relation</a></li>
+	</ul>
+	
 	
 </body></html>
