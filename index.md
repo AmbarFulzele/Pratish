@@ -43,6 +43,9 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/BloodRelation.html">Blood Relation</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/CriticalReasoning.html">Critical Reasoning</a></li>
+	</ul>
 	
 	
 </body></html>
