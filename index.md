@@ -49,6 +49,9 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/Puzzles.html">Puzzles</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/AbstractReasoning1.html">Abstract Reasoning 1</a></li>
+	</ul>
 	
 	
 </body></html>
