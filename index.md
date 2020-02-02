@@ -46,6 +46,9 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/CriticalReasoning.html">Critical Reasoning</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/Puzzles.html">Puzzles</a></li>
+	</ul>
 	
 	
 </body></html>
