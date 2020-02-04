@@ -52,6 +52,12 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/AbstractReasoning1.html">Abstract Reasoning 1</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/AbstractReasoning2.html">Abstract Reasoning 2</a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/AbstractReasoning3.html">Abstract Reasoning 3</a></li>
+	</ul>
 	
 	
 </body></html>
