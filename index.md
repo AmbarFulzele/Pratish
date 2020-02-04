@@ -58,6 +58,9 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/AbstractReasoning3.html">Abstract Reasoning 3</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/LRAnswers.html">LR Answers</a></li>
+	</ul>
 	
 	
 </body></html>
