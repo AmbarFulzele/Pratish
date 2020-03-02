@@ -60,7 +60,21 @@
 	</ul>
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/LRAnswers.html">LR Answers</a></li>
+	</ul>	
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/VerbalSectionalTest1.html">V1</a></li>
+	</ul>	
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/VerbalSectionalTest2.html">V2</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/VerbalSectionalTest4.html">V4</a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/VerbalSectionalTest5.html">V5</a></li>
+	</ul>
+	
+	
 	
 	
 </body></html>
