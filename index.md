@@ -8,6 +8,9 @@
 	  <li><a href="https://ambarfulzele.github.io/Pratish/MHCETMocks/Mock2.html">MH CET Mock 2</a></li>
 	</ul>	
 	<ul>
+	  <li><a href="https://ambarfulzele.github.io/Pratish/MHCETMocks/Mock3.html">MH CET Mock 3</a></li>
+	</ul>
+	<ul>
 	  <li><a href="https://ambarfulzele.github.io/Pratish/VERBAL_1.html">VERBAL 1</a></li>
 	</ul>
 	<ul>
